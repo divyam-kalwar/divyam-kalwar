@@ -19,7 +19,7 @@ Azure DevOps, Bash, Git
 
 ### Connect with me
 [![Github Connect](https://github.com/user-attachments/assets/f0a123e3-5322-4f26-a76d-7cd1c87aabc1)](https://github.com/divyam-kalwar)
-[![Linkedin Connect](https://github.com/user-attachments/assets/d2934b0f-6717-4167-921f-0f60356b8256)](https://www.linkedin.com/in/divyam-kalwar-183184137/)
+[![Linkedin Connect](https://github.com/user-attachments/assets/d2934b0f-6717-4167-921f-0f60356b8256)](https://www.linkedin.com/in/divyam99)
 
 ### Github Stats
 
