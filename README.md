@@ -7,10 +7,9 @@
 
 ## 🎯 Quick Overview
 
-🔹 **Currently** developing LLAMA 3.2 fine-tuned chatbot for LIC customer service automation  
 🔹 **Expertise** Machine Learning, NLP, LLM fine-tuning & deployment  
 🔹 **Focus** End-to-end ML pipelines from training to production  
-🔹 **Based in** Pune, India  
+🔹 **Based in** Mumbai, India  
 
 ---
 
